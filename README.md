@@ -1,10 +1,17 @@
 Flip y el take esta funcionando bien en el movil
+
  -limpiar el script y hacerlo mejor
+
  -colocar slider de imagenes con imagenes para ver en el canvas
+
  -colocar la imagen en el canvas
+
  -tomar picture de la imagen y el video juntos
+
  -darle algun ajuste
+
  -guardar imagen
+
  -enviar a otros lugares
 
 
@@ -50,29 +57,5 @@ pages:
   - master
 ```
 
-The above example expects to put all your HTML files in the `public/` directory.
 
-## GitLab User or Group Pages
 
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
-
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
-
-## Did you fork this project?
-
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
-
-## Troubleshooting
-
-1. CSS is missing! That means that you have wrongly set up the CSS URL in your
-   HTML files. Have a look at the [index.html] for an example.
-
-[ci]: https://about.gitlab.com/gitlab-ci/
-[index.html]: https://gitlab.com/pages/plain-html/blob/master/public/index.html
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
